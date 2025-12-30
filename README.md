@@ -28,7 +28,6 @@
     ```bash
     pip install -r requirements.txt
     ```
-    *`requirements.txt` 应包含 `opencv-python`, `PyQt5` 或 `tkinter` (根据你的GUI框架)等。*
 
 3.  **运行应用**
     ```bash
@@ -52,4 +51,5 @@
 ## 🙏 致谢
 - 本工具的开发源于一项关于苹果自动化疏果的学术研究，旨在解决从真实农艺视频中高效构建数据集的难题。
 - 感谢 [SAM-Tool](https://github.com/zhouayi/SAM-Tool) 提供了强大的基础标注能力。
+
 - 感谢所有在研究和开发过程中提供建议的师长与同行。
