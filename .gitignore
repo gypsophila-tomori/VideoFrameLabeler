@@ -1,0 +1,14 @@
+# 视频文件
+*.mp4
+*.mov
+*.avi
+
+# 图像文件
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.psd
+# vscode工作区设置
+*.code-workspace

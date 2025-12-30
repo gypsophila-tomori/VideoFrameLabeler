@@ -1,0 +1,5090 @@
+{
+  "pre_001_frame_855": {
+    "source_video": "pre_001",
+    "frame_number": 855,
+    "roi_coords": [
+      377,
+      231,
+      555,
+      380
+    ],
+    "comment": "",
+    "points": [],
+    "created_at": "2025-12-24T15:38:29.632490"
+  },
+  "pre_073_frame_0": {
+    "source_video": "pre_073",
+    "frame_number": 0,
+    "roi_coords": [
+      89,
+      272,
+      607,
+      616
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          458,
+          327
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          158,
+          296
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          176,
+          358
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          186,
+          507
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          254,
+          321
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          93,
+          108
+        ]
+      }
+    ],
+    "remove_count": 4,
+    "keep_count": 2,
+    "created_at": "2025-12-24T15:46:05.216171"
+  },
+  "pre_073_frame_57": {
+    "source_video": "pre_073",
+    "frame_number": 57,
+    "roi_coords": [
+      95,
+      262,
+      562,
+      567
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          336,
+          152
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          480,
+          313
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          161,
+          242
+        ]
+      }
+    ],
+    "remove_count": 2,
+    "keep_count": 1,
+    "created_at": "2025-12-24T15:46:29.931126"
+  },
+  "pre_073_frame_93": {
+    "source_video": "pre_073",
+    "frame_number": 93,
+    "roi_coords": [
+      90,
+      256,
+      514,
+      503
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          234,
+          186
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          98,
+          147
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          437,
+          195
+        ]
+      }
+    ],
+    "remove_count": 2,
+    "keep_count": 1,
+    "created_at": "2025-12-24T15:46:51.783183"
+  },
+  "pre_073_frame_136": {
+    "source_video": "pre_073",
+    "frame_number": 136,
+    "roi_coords": [
+      28,
+      140,
+      596,
+      602
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          321,
+          246
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          152,
+          361
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          513,
+          401
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          496,
+          223
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          541,
+          130
+        ]
+      }
+    ],
+    "remove_count": 4,
+    "keep_count": 1,
+    "created_at": "2025-12-24T15:47:36.718019"
+  },
+  "pre_072_frame_116": {
+    "source_video": "pre_072",
+    "frame_number": 116,
+    "roi_coords": [
+      70,
+      256,
+      604,
+      599
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          169,
+          166
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          412,
+          319
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          296,
+          93
+        ]
+      }
+    ],
+    "remove_count": 2,
+    "keep_count": 1,
+    "created_at": "2025-12-24T15:48:58.255210"
+  },
+  "pre_072_frame_736": {
+    "source_video": "pre_072",
+    "frame_number": 736,
+    "roi_coords": [
+      5,
+      214,
+      695,
+      694
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          271,
+          541
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          245,
+          84
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          412,
+          138
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          471,
+          287
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          347,
+          270
+        ]
+      }
+    ],
+    "remove_count": 4,
+    "keep_count": 1,
+    "created_at": "2025-12-24T15:51:22.910417"
+  },
+  "pre_071_frame_838": {
+    "source_video": "pre_071",
+    "frame_number": 838,
+    "roi_coords": [
+      37,
+      83,
+      625,
+      576
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          176,
+          501
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          312,
+          442
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          377,
+          232
+        ]
+      }
+    ],
+    "remove_count": 3,
+    "keep_count": 0,
+    "created_at": "2025-12-24T16:09:00.186775"
+  },
+  "pre_069_frame_121": {
+    "source_video": "pre_069",
+    "frame_number": 121,
+    "roi_coords": [
+      1,
+      143,
+      672,
+      695
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          326,
+          223
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:12:59.233803"
+  },
+  "pre_069_frame_701": {
+    "source_video": "pre_069",
+    "frame_number": 701,
+    "roi_coords": [
+      47,
+      14,
+      670,
+      641
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          443,
+          344
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:14:35.487407"
+  },
+  "pre_069_frame_995": {
+    "source_video": "pre_069",
+    "frame_number": 995,
+    "roi_coords": [
+      31,
+      228,
+      686,
+      632
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          307,
+          369
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:15:29.420409"
+  },
+  "pre_069_frame_1047": {
+    "source_video": "pre_069",
+    "frame_number": 1047,
+    "roi_coords": [
+      3,
+      1,
+      648,
+      641
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          329,
+          359
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          569,
+          27
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T16:16:00.444229"
+  },
+  "pre_069_frame_1115": {
+    "source_video": "pre_069",
+    "frame_number": 1115,
+    "roi_coords": [
+      1,
+      25,
+      712,
+      748
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          419,
+          327
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:16:38.585332"
+  },
+  "pre_068_frame_20": {
+    "source_video": "pre_068",
+    "frame_number": 20,
+    "roi_coords": [
+      6,
+      338,
+      653,
+      638
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          290,
+          186
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:17:50.688250"
+  },
+  "pre_068_frame_762": {
+    "source_video": "pre_068",
+    "frame_number": 762,
+    "roi_coords": [
+      8,
+      191,
+      709,
+      712
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          288,
+          330
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          654,
+          195
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          629,
+          34
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-24T16:18:54.973512"
+  },
+  "pre_068_frame_1044": {
+    "source_video": "pre_068",
+    "frame_number": 1044,
+    "roi_coords": [
+      11,
+      129,
+      706,
+      706
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          363,
+          158
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:19:45.706288"
+  },
+  "pre_068_frame_1168": {
+    "source_video": "pre_068",
+    "frame_number": 1168,
+    "roi_coords": [
+      11,
+      242,
+      697,
+      686
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          237,
+          135
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:20:45.556042"
+  },
+  "pre_067_frame_1164": {
+    "source_video": "pre_067",
+    "frame_number": 1164,
+    "roi_coords": [
+      0,
+      439,
+      545,
+      526
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          219,
+          189
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:27:52.745360"
+  },
+  "pre_067_frame_1594": {
+    "source_video": "pre_067",
+    "frame_number": 1594,
+    "roi_coords": [
+      0,
+      180,
+      556,
+      554
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          242,
+          273
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:28:55.523538"
+  },
+  "pre_067_frame_2564": {
+    "source_video": "pre_067",
+    "frame_number": 2564,
+    "roi_coords": [
+      39,
+      293,
+      616,
+      624
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          327,
+          282
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          409,
+          451
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T16:31:14.451366"
+  },
+  "pre_067_frame_2566": {
+    "source_video": "pre_067",
+    "frame_number": 2566,
+    "roi_coords": [
+      56,
+      332,
+      596,
+      610
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          412,
+          434
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:33:17.120859"
+  },
+  "pre_066_frame_137": {
+    "source_video": "pre_066",
+    "frame_number": 137,
+    "roi_coords": [
+      56,
+      3,
+      630,
+      614
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          256,
+          493
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          530,
+          73
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T16:49:19.328984"
+  },
+  "pre_066_frame_308": {
+    "source_video": "pre_066",
+    "frame_number": 308,
+    "roi_coords": [
+      8,
+      140,
+      695,
+      687
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          138,
+          299
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          417,
+          311
+        ]
+      }
+    ],
+    "remove_count": 2,
+    "keep_count": 0,
+    "created_at": "2025-12-24T16:50:19.341024"
+  },
+  "pre_066_frame_526": {
+    "source_video": "pre_066",
+    "frame_number": 526,
+    "roi_coords": [
+      25,
+      242,
+      607,
+      616
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          104,
+          107
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          149,
+          361
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          431,
+          352
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          406,
+          468
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 4,
+    "created_at": "2025-12-24T16:50:57.224616"
+  },
+  "pre_066_frame_663": {
+    "source_video": "pre_066",
+    "frame_number": 663,
+    "roi_coords": [
+      121,
+      321,
+      596,
+      585
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          431,
+          262
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          191,
+          211
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          307,
+          350
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-24T16:52:44.766294"
+  },
+  "pre_066_frame_1079": {
+    "source_video": "pre_066",
+    "frame_number": 1079,
+    "roi_coords": [
+      0,
+      312,
+      624,
+      636
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          217,
+          153
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          468,
+          271
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          315,
+          359
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-24T16:53:16.569183"
+  },
+  "pre_066_frame_1244": {
+    "source_video": "pre_066",
+    "frame_number": 1244,
+    "roi_coords": [
+      25,
+      15,
+      692,
+      734
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          132,
+          627
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          538,
+          633
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          564,
+          235
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          426,
+          114
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          623,
+          58
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 5,
+    "created_at": "2025-12-24T16:56:00.999354"
+  },
+  "pre_066_frame_1902": {
+    "source_video": "pre_066",
+    "frame_number": 1902,
+    "roi_coords": [
+      78,
+      116,
+      633,
+      611
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          296,
+          363
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          144,
+          132
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          291,
+          535
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-24T16:59:14.350561"
+  },
+  "pre_066_frame_2055": {
+    "source_video": "pre_066",
+    "frame_number": 2055,
+    "roi_coords": [
+      15,
+      26,
+      537,
+      546
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          275,
+          312
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T16:59:37.285767"
+  },
+  "pre_066_frame_2327": {
+    "source_video": "pre_066",
+    "frame_number": 2327,
+    "roi_coords": [
+      279,
+      349,
+      438,
+      452
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          253,
+          305
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:01:03.659192"
+  },
+  "pre_066_frame_2473": {
+    "source_video": "pre_066",
+    "frame_number": 2473,
+    "roi_coords": [
+      42,
+      296,
+      635,
+      626
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          189,
+          327
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:01:27.047302"
+  },
+  "pre_066_frame_3027": {
+    "source_video": "pre_066",
+    "frame_number": 3027,
+    "roi_coords": [
+      1,
+      203,
+      675,
+      671
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          481,
+          343
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          173,
+          563
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          199,
+          459
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          80,
+          374
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 4,
+    "created_at": "2025-12-24T17:03:02.596290"
+  },
+  "pre_066_frame_3207": {
+    "source_video": "pre_066",
+    "frame_number": 3207,
+    "roi_coords": [
+      0,
+      79,
+      705,
+      693
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          191,
+          549
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          146,
+          312
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          304,
+          631
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-24T17:04:08.277492"
+  },
+  "pre_065_frame_90": {
+    "source_video": "pre_065",
+    "frame_number": 90,
+    "roi_coords": [
+      112,
+      1,
+      545,
+      562
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          74,
+          80
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          423,
+          407
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T17:05:11.174752"
+  },
+  "pre_065_frame_366": {
+    "source_video": "pre_065",
+    "frame_number": 366,
+    "roi_coords": [
+      25,
+      130,
+      692,
+      735
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          101,
+          405
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          378,
+          137
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          623,
+          634
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          395,
+          642
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 4,
+    "created_at": "2025-12-24T17:06:22.260929"
+  },
+  "pre_065_frame_496": {
+    "source_video": "pre_065",
+    "frame_number": 496,
+    "roi_coords": [
+      1,
+      124,
+      712,
+      705
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          650,
+          172
+        ]
+      }
+    ],
+    "remove_count": 1,
+    "keep_count": 0,
+    "created_at": "2025-12-24T17:07:51.087263"
+  },
+  "pre_064_frame_12": {
+    "source_video": "pre_064",
+    "frame_number": 12,
+    "roi_coords": [
+      14,
+      1,
+      697,
+      689
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          321,
+          58
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:08:22.546010"
+  },
+  "pre_064_frame_266": {
+    "source_video": "pre_064",
+    "frame_number": 266,
+    "roi_coords": [
+      1,
+      46,
+      613,
+      619
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          292,
+          114
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:09:22.488961"
+  },
+  "pre_064_frame_537": {
+    "source_video": "pre_064",
+    "frame_number": 537,
+    "roi_coords": [
+      1,
+      15,
+      661,
+      689
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          295,
+          258
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:10:05.392604"
+  },
+  "pre_064_frame_739": {
+    "source_video": "pre_064",
+    "frame_number": 739,
+    "roi_coords": [
+      1,
+      119,
+      622,
+      630
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          328,
+          196
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:10:38.158378"
+  },
+  "pre_064_frame_1198": {
+    "source_video": "pre_064",
+    "frame_number": 1198,
+    "roi_coords": [
+      1,
+      85,
+      684,
+      642
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          610,
+          309
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          108,
+          236
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T17:11:34.309899"
+  },
+  "pre_064_frame_1475": {
+    "source_video": "pre_064",
+    "frame_number": 1475,
+    "roi_coords": [
+      15,
+      57,
+      636,
+      670
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          196,
+          315
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:12:15.558912"
+  },
+  "pre_063_frame_0": {
+    "source_video": "pre_063",
+    "frame_number": 0,
+    "roi_coords": [
+      1,
+      187,
+      636,
+      655
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          379,
+          230
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:12:57.278820"
+  },
+  "pre_063_frame_169": {
+    "source_video": "pre_063",
+    "frame_number": 169,
+    "roi_coords": [
+      3,
+      9,
+      637,
+      664
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          67,
+          208
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:13:42.382968"
+  },
+  "pre_063_frame_377": {
+    "source_video": "pre_063",
+    "frame_number": 377,
+    "roi_coords": [
+      9,
+      302,
+      628,
+      631
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          289,
+          247
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          131,
+          493
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T17:14:31.057022"
+  },
+  "pre_063_frame_767": {
+    "source_video": "pre_063",
+    "frame_number": 767,
+    "roi_coords": [
+      1,
+      288,
+      667,
+      676
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          565,
+          349
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:15:05.798340"
+  },
+  "pre_063_frame_976": {
+    "source_video": "pre_063",
+    "frame_number": 976,
+    "roi_coords": [
+      5,
+      521,
+      712,
+      709
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          406,
+          420
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:15:53.182539"
+  },
+  "pre_062_frame_20": {
+    "source_video": "pre_062",
+    "frame_number": 20,
+    "roi_coords": [
+      3,
+      1,
+      653,
+      712
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          448,
+          323
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:16:25.448950"
+  },
+  "pre_062_frame_212": {
+    "source_video": "pre_062",
+    "frame_number": 212,
+    "roi_coords": [
+      1,
+      40,
+      667,
+      684
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          337,
+          157
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:16:42.099058"
+  },
+  "pre_062_frame_355": {
+    "source_video": "pre_062",
+    "frame_number": 355,
+    "roi_coords": [
+      9,
+      6,
+      619,
+      619
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          222,
+          301
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:16:55.107591"
+  },
+  "pre_062_frame_451": {
+    "source_video": "pre_062",
+    "frame_number": 451,
+    "roi_coords": [
+      1,
+      34,
+      689,
+      699
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          419,
+          355
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:17:17.038853"
+  },
+  "pre_062_frame_611": {
+    "source_video": "pre_062",
+    "frame_number": 611,
+    "roi_coords": [
+      1,
+      17,
+      712,
+      701
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          467,
+          369
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:18:48.814913"
+  },
+  "pre_061_frame_0": {
+    "source_video": "pre_061",
+    "frame_number": 0,
+    "roi_coords": [
+      108,
+      12,
+      571,
+      602
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          278,
+          289
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T17:19:18.999237"
+  },
+  "pre_061_frame_115": {
+    "source_video": "pre_061",
+    "frame_number": 115,
+    "roi_coords": [
+      1,
+      271,
+      560,
+      555
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          92,
+          284
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          348,
+          199
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T18:05:55.947031"
+  },
+  "pre_060_frame_721": {
+    "source_video": "pre_060",
+    "frame_number": 721,
+    "roi_coords": [
+      1,
+      288,
+      681,
+      673
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          289,
+          163
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T18:06:25.891825"
+  },
+  "pre_060_frame_915": {
+    "source_video": "pre_060",
+    "frame_number": 915,
+    "roi_coords": [
+      12,
+      88,
+      653,
+      678
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          368,
+          261
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T18:06:55.563960"
+  },
+  "pre_059_frame_22": {
+    "source_video": "pre_059",
+    "frame_number": 22,
+    "roi_coords": [
+      109,
+      315,
+      608,
+      641
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          384,
+          226
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          110,
+          122
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          454,
+          74
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-24T18:08:31.846991"
+  },
+  "pre_059_frame_234": {
+    "source_video": "pre_059",
+    "frame_number": 234,
+    "roi_coords": [
+      50,
+      112,
+      565,
+      551
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          353,
+          124
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T18:08:50.853985"
+  },
+  "pre_059_frame_431": {
+    "source_video": "pre_059",
+    "frame_number": 431,
+    "roi_coords": [
+      9,
+      192,
+      662,
+      653
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          267,
+          419
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          162,
+          284
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T18:09:37.504023"
+  },
+  "pre_059_frame_581": {
+    "source_video": "pre_059",
+    "frame_number": 581,
+    "roi_coords": [
+      59,
+      301,
+      658,
+      683
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          459,
+          355
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          535,
+          291
+        ]
+      }
+    ],
+    "remove_count": 2,
+    "keep_count": 0,
+    "created_at": "2025-12-24T18:10:04.529523"
+  },
+  "pre_058_frame_733": {
+    "source_video": "pre_058",
+    "frame_number": 733,
+    "roi_coords": [
+      64,
+      267,
+      650,
+      636
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          347,
+          271
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T18:11:32.645760"
+  },
+  "pre_058_frame_941": {
+    "source_video": "pre_058",
+    "frame_number": 941,
+    "roi_coords": [
+      62,
+      222,
+      652,
+      633
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          408,
+          327
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T18:12:10.293414"
+  },
+  "pre_057_frame_171": {
+    "source_video": "pre_057",
+    "frame_number": 171,
+    "roi_coords": [
+      1,
+      201,
+      526,
+      534
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          213,
+          300
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          373,
+          269
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T18:13:19.396602"
+  },
+  "pre_056_frame_1278": {
+    "source_video": "pre_056",
+    "frame_number": 1278,
+    "roi_coords": [
+      5,
+      276,
+      576,
+      553
+    ],
+    "comment": "",
+    "points": [],
+    "remove_count": 0,
+    "keep_count": 0,
+    "created_at": "2025-12-24T18:18:06.347607"
+  },
+  "pre_056_frame_1879": {
+    "source_video": "pre_056",
+    "frame_number": 1879,
+    "roi_coords": [
+      47,
+      53,
+      670,
+      672
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          175,
+          519
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          511,
+          223
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          508,
+          392
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-24T18:19:50.222370"
+  },
+  "pre_056_frame_5235": {
+    "source_video": "pre_056",
+    "frame_number": 5235,
+    "roi_coords": [
+      59,
+      397,
+      463,
+      432
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          237,
+          149
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T18:21:21.669684"
+  },
+  "pre_055_frame_0": {
+    "source_video": "pre_055",
+    "frame_number": 0,
+    "roi_coords": [
+      23,
+      5,
+      650,
+      613
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          580,
+          344
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          264,
+          17
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          216,
+          240
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          154,
+          423
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 4,
+    "created_at": "2025-12-24T18:35:35.433619"
+  },
+  "pre_055_frame_491": {
+    "source_video": "pre_055",
+    "frame_number": 491,
+    "roi_coords": [
+      16,
+      177,
+      661,
+      647
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          401,
+          423
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          164,
+          296
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          192,
+          96
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          592,
+          192
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 4,
+    "created_at": "2025-12-24T18:35:52.651589"
+  },
+  "pre_054_frame_259": {
+    "source_video": "pre_054",
+    "frame_number": 259,
+    "roi_coords": [
+      15,
+      360,
+      499,
+      563
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          177,
+          177
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          372,
+          523
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T18:38:25.059591"
+  },
+  "pre_054_frame_476": {
+    "source_video": "pre_054",
+    "frame_number": 476,
+    "roi_coords": [
+      3,
+      114,
+      713,
+      710
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          264,
+          216
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T18:39:04.937234"
+  },
+  "pre_053_frame_32": {
+    "source_video": "pre_053",
+    "frame_number": 32,
+    "roi_coords": [
+      2,
+      70,
+      715,
+      700
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          310,
+          352
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          505,
+          302
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          643,
+          186
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-24T18:58:32.694106"
+  },
+  "pre_052_frame_14": {
+    "source_video": "pre_052",
+    "frame_number": 14,
+    "roi_coords": [
+      6,
+      253,
+      560,
+      571
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          425,
+          246
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T18:59:13.159309"
+  },
+  "pre_051_frame_129": {
+    "source_video": "pre_051",
+    "frame_number": 129,
+    "roi_coords": [
+      180,
+      335,
+      537,
+      551
+    ],
+    "comment": "",
+    "points": [],
+    "remove_count": 0,
+    "keep_count": 0,
+    "created_at": "2025-12-24T19:00:43.551873"
+  },
+  "pre_051_frame_769": {
+    "source_video": "pre_051",
+    "frame_number": 769,
+    "roi_coords": [
+      225,
+      490,
+      492,
+      469
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          226,
+          121
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T19:01:26.968310"
+  },
+  "pre_051_frame_956": {
+    "source_video": "pre_051",
+    "frame_number": 956,
+    "roi_coords": [
+      1,
+      370,
+      557,
+      599
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          213,
+          174
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T19:02:05.506363"
+  },
+  "pre_051_frame_1536": {
+    "source_video": "pre_051",
+    "frame_number": 1536,
+    "roi_coords": [
+      1,
+      152,
+      678,
+      706
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          430,
+          228
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T19:02:34.161275"
+  },
+  "pre_051_frame_2274": {
+    "source_video": "pre_051",
+    "frame_number": 2274,
+    "roi_coords": [
+      104,
+      276,
+      613,
+      607
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          375,
+          273
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T19:03:11.017669"
+  },
+  "pre_051_frame_2926": {
+    "source_video": "pre_051",
+    "frame_number": 2926,
+    "roi_coords": [
+      1,
+      39,
+      686,
+      717
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          309,
+          333
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          77,
+          273
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-24T19:04:10.438808"
+  },
+  "pre_051_frame_3542": {
+    "source_video": "pre_051",
+    "frame_number": 3542,
+    "roi_coords": [
+      1,
+      487,
+      678,
+      700
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          376,
+          229
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-24T19:04:51.942653"
+  },
+  "pre_050_frame_631": {
+    "source_video": "pre_050",
+    "frame_number": 631,
+    "roi_coords": [
+      1,
+      151,
+      660,
+      669
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          175,
+          442
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          397,
+          569
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-25T16:38:39.245573"
+  },
+  "pre_050_frame_1062": {
+    "source_video": "pre_050",
+    "frame_number": 1062,
+    "roi_coords": [
+      1,
+      135,
+      678,
+      686
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          314,
+          324
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T16:40:32.334970"
+  },
+  "pre_049_frame_193": {
+    "source_video": "pre_049",
+    "frame_number": 193,
+    "roi_coords": [
+      8,
+      298,
+      697,
+      670
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          567,
+          150
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T16:41:12.141869"
+  },
+  "pre_049_frame_274": {
+    "source_video": "pre_049",
+    "frame_number": 274,
+    "roi_coords": [
+      33,
+      304,
+      678,
+      680
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          519,
+          519
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          361,
+          226
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-25T16:41:35.726575"
+  },
+  "pre_049_frame_412": {
+    "source_video": "pre_049",
+    "frame_number": 412,
+    "roi_coords": [
+      132,
+      19,
+      585,
+      613
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          426,
+          240
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T16:41:57.189851"
+  },
+  "pre_049_frame_545": {
+    "source_video": "pre_049",
+    "frame_number": 545,
+    "roi_coords": [
+      87,
+      129,
+      630,
+      647
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          423,
+          183
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T16:43:07.431347"
+  },
+  "pre_048_frame_0": {
+    "source_video": "pre_048",
+    "frame_number": 0,
+    "roi_coords": [
+      132,
+      59,
+      585,
+      579
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          293,
+          349
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          505,
+          321
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          76,
+          81
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-25T19:26:25.612777"
+  },
+  "pre_048_frame_161": {
+    "source_video": "pre_048",
+    "frame_number": 161,
+    "roi_coords": [
+      101,
+      104,
+      616,
+      590
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          572,
+          135
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          400,
+          355
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          195,
+          395
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-25T19:26:51.563552"
+  },
+  "pre_048_frame_247": {
+    "source_video": "pre_048",
+    "frame_number": 247,
+    "roi_coords": [
+      135,
+      163,
+      582,
+      545
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          76,
+          369
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          454,
+          124
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          524,
+          338
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-25T19:27:27.334423"
+  },
+  "pre_048_frame_606": {
+    "source_video": "pre_048",
+    "frame_number": 606,
+    "roi_coords": [
+      109,
+      507,
+      608,
+      621
+    ],
+    "comment": "",
+    "points": [],
+    "remove_count": 0,
+    "keep_count": 0,
+    "created_at": "2025-12-25T19:28:29.201030"
+  },
+  "pre_047_frame_31": {
+    "source_video": "pre_047",
+    "frame_number": 31,
+    "roi_coords": [
+      25,
+      301,
+      692,
+      681
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          538,
+          319
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:29:09.126183"
+  },
+  "pre_047_frame_774": {
+    "source_video": "pre_047",
+    "frame_number": 774,
+    "roi_coords": [
+      5,
+      197,
+      712,
+      711
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          601,
+          231
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          45,
+          180
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-25T19:30:16.705722"
+  },
+  "pre_047_frame_1090": {
+    "source_video": "pre_047",
+    "frame_number": 1090,
+    "roi_coords": [
+      90,
+      321,
+      627,
+      607
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          378,
+          409
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:30:30.468833"
+  },
+  "pre_047_frame_1751": {
+    "source_video": "pre_047",
+    "frame_number": 1751,
+    "roi_coords": [
+      2,
+      228,
+      715,
+      720
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          454,
+          333
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          282,
+          197
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-25T19:31:41.544272"
+  },
+  "pre_047_frame_1996": {
+    "source_video": "pre_047",
+    "frame_number": 1996,
+    "roi_coords": [
+      50,
+      239,
+      667,
+      706
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          564,
+          291
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:32:17.455827"
+  },
+  "pre_047_frame_2390": {
+    "source_video": "pre_047",
+    "frame_number": 2390,
+    "roi_coords": [
+      5,
+      389,
+      712,
+      700
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          245,
+          228
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          398,
+          510
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          107,
+          203
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-25T19:33:00.527787"
+  },
+  "pre_046_frame_0": {
+    "source_video": "pre_046",
+    "frame_number": 0,
+    "roi_coords": [
+      28,
+      200,
+      689,
+      866
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          217,
+          115
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:34:37.718823"
+  },
+  "pre_045_frame_177": {
+    "source_video": "pre_045",
+    "frame_number": 177,
+    "roi_coords": [
+      1,
+      19,
+      667,
+      672
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          148,
+          347
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:35:43.038484"
+  },
+  "pre_045_frame_312": {
+    "source_video": "pre_045",
+    "frame_number": 312,
+    "roi_coords": [
+      19,
+      31,
+      698,
+      728
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          251,
+          284
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          322,
+          107
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          643,
+          64
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          615,
+          265
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 4,
+    "created_at": "2025-12-25T19:36:01.092399"
+  },
+  "pre_044_frame_392": {
+    "source_video": "pre_044",
+    "frame_number": 392,
+    "roi_coords": [
+      515,
+      108,
+      651,
+      609
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          201,
+          179
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:37:00.102068"
+  },
+  "pre_044_frame_638": {
+    "source_video": "pre_044",
+    "frame_number": 638,
+    "roi_coords": [
+      141,
+      50,
+      627,
+      620
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          186,
+          199
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          575,
+          109
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-25T19:37:15.266669"
+  },
+  "pre_044_frame_1094": {
+    "source_video": "pre_044",
+    "frame_number": 1094,
+    "roi_coords": [
+      170,
+      2,
+      763,
+      715
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          137,
+          254
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          497,
+          183
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          533,
+          205
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          703,
+          298
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 4,
+    "created_at": "2025-12-25T19:39:06.510684"
+  },
+  "pre_044_frame_1661": {
+    "source_video": "pre_044",
+    "frame_number": 1661,
+    "roi_coords": [
+      358,
+      15,
+      710,
+      702
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          188,
+          124
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          311,
+          155
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-25T19:39:17.484895"
+  },
+  "pre_043_frame_158": {
+    "source_video": "pre_043",
+    "frame_number": 158,
+    "roi_coords": [
+      49,
+      518,
+      667,
+      674
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          486,
+          377
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:41:22.225994"
+  },
+  "pre_043_frame_249": {
+    "source_video": "pre_043",
+    "frame_number": 249,
+    "roi_coords": [
+      38,
+      567,
+      678,
+      646
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          324,
+          363
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:41:42.540354"
+  },
+  "pre_043_frame_343": {
+    "source_video": "pre_043",
+    "frame_number": 343,
+    "roi_coords": [
+      7,
+      599,
+      709,
+      684
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          289,
+          415
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:42:22.018947"
+  },
+  "pre_043_frame_416": {
+    "source_video": "pre_043",
+    "frame_number": 416,
+    "roi_coords": [
+      28,
+      539,
+      688,
+      706
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          303,
+          391
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:42:40.055347"
+  },
+  "pre_043_frame_456": {
+    "source_video": "pre_043",
+    "frame_number": 456,
+    "roi_coords": [
+      7,
+      292,
+      709,
+      681
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          363,
+          194
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:43:05.693127"
+  },
+  "pre_043_frame_652": {
+    "source_video": "pre_043",
+    "frame_number": 652,
+    "roi_coords": [
+      1,
+      257,
+      650,
+      670
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          439,
+          504
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          478,
+          342
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          44,
+          148
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-25T19:43:27.574538"
+  },
+  "pre_042_frame_105": {
+    "source_video": "pre_042",
+    "frame_number": 105,
+    "roi_coords": [
+      21,
+      334,
+      821,
+      859
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          600,
+          346
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:44:31.097159"
+  },
+  "pre_041_frame_220": {
+    "source_video": "pre_041",
+    "frame_number": 220,
+    "roi_coords": [
+      87,
+      230,
+      486,
+      490
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          145,
+          85
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:51:21.881416"
+  },
+  "pre_041_frame_392": {
+    "source_video": "pre_041",
+    "frame_number": 392,
+    "roi_coords": [
+      31,
+      99,
+      542,
+      556
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          262,
+          507
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          365,
+          110
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-25T19:51:41.608903"
+  },
+  "pre_040_frame_271": {
+    "source_video": "pre_040",
+    "frame_number": 271,
+    "roi_coords": [
+      228,
+      131,
+      847,
+      851
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          474,
+          562
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:53:07.498003"
+  },
+  "pre_040_frame_823": {
+    "source_video": "pre_040",
+    "frame_number": 823,
+    "roi_coords": [
+      287,
+      249,
+      788,
+      728
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          406,
+          613
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:56:20.505296"
+  },
+  "pre_039_frame_569": {
+    "source_video": "pre_039",
+    "frame_number": 569,
+    "roi_coords": [
+      1,
+      198,
+      644,
+      656
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          199,
+          343
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T19:59:46.313271"
+  },
+  "pre_039_frame_1097": {
+    "source_video": "pre_039",
+    "frame_number": 1097,
+    "roi_coords": [
+      39,
+      284,
+      678,
+      664
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          310,
+          403
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T20:00:30.645076"
+  },
+  "pre_039_frame_1134": {
+    "source_video": "pre_039",
+    "frame_number": 1134,
+    "roi_coords": [
+      14,
+      129,
+      703,
+      678
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          346,
+          257
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-25T21:37:07.843514"
+  },
+  "pre_037_frame_711": {
+    "source_video": "pre_037",
+    "frame_number": 711,
+    "roi_coords": [
+      13,
+      9,
+      936,
+      900
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          806,
+          617
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          388,
+          369
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          56,
+          415
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-26T11:02:46.549140"
+  },
+  "pre_037_frame_1162": {
+    "source_video": "pre_037",
+    "frame_number": 1162,
+    "roi_coords": [
+      288,
+      261,
+      687,
+      681
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          328,
+          150
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T11:05:02.948945"
+  },
+  "pre_037_frame_1285": {
+    "source_video": "pre_037",
+    "frame_number": 1285,
+    "roi_coords": [
+      9,
+      354,
+      714,
+      721
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          650,
+          30
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          369,
+          232
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T11:05:36.364603"
+  },
+  "pre_037_frame_1539": {
+    "source_video": "pre_037",
+    "frame_number": 1539,
+    "roi_coords": [
+      0,
+      135,
+      790,
+      777
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          358,
+          266
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T11:05:58.569404"
+  },
+  "pre_037_frame_2015": {
+    "source_video": "pre_037",
+    "frame_number": 2015,
+    "roi_coords": [
+      799,
+      76,
+      790,
+      763
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          378,
+          570
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          607,
+          292
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          404,
+          371
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          132,
+          388
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          497,
+          278
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 5,
+    "created_at": "2025-12-26T13:00:08.364205"
+  },
+  "pre_037_frame_2143": {
+    "source_video": "pre_037",
+    "frame_number": 2143,
+    "roi_coords": [
+      215,
+      29,
+      857,
+      880
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          358,
+          365
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          527,
+          20
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:00:24.905579"
+  },
+  "pre_037_frame_2487": {
+    "source_video": "pre_037",
+    "frame_number": 2487,
+    "roi_coords": [
+      424,
+      13,
+      979,
+      903
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          889,
+          636
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          86,
+          338
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:00:55.394585"
+  },
+  "pre_037_frame_2709": {
+    "source_video": "pre_037",
+    "frame_number": 2709,
+    "roi_coords": [
+      374,
+      16,
+      913,
+      890
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          846,
+          507
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          116,
+          607
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:01:18.282959"
+  },
+  "pre_037_frame_2869": {
+    "source_video": "pre_037",
+    "frame_number": 2869,
+    "roi_coords": [
+      422,
+      1,
+      877,
+      884
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          254,
+          615
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          659,
+          486
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:01:45.899041"
+  },
+  "pre_037_frame_3871": {
+    "source_video": "pre_037",
+    "frame_number": 3871,
+    "roi_coords": [
+      475,
+      1,
+      927,
+      963
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          848,
+          499
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          68,
+          648
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:02:13.824639"
+  },
+  "pre_036_frame_330": {
+    "source_video": "pre_036",
+    "frame_number": 330,
+    "roi_coords": [
+      26,
+      360,
+      599,
+      591
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          346,
+          401
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          456,
+          270
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:06:07.582084"
+  },
+  "pre_036_frame_532": {
+    "source_video": "pre_036",
+    "frame_number": 532,
+    "roi_coords": [
+      143,
+      507,
+      932,
+      914
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          504,
+          507
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:06:35.547648"
+  },
+  "pre_036_frame_694": {
+    "source_video": "pre_036",
+    "frame_number": 694,
+    "roi_coords": [
+      1,
+      284,
+      1039,
+      1048
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          827,
+          663
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          130,
+          722
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:07:13.679719"
+  },
+  "pre_035_frame_107": {
+    "source_video": "pre_035",
+    "frame_number": 107,
+    "roi_coords": [
+      38,
+      329,
+      1037,
+      1012
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          604,
+          795
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          532,
+          131
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          249,
+          415
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          245,
+          605
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 4,
+    "created_at": "2025-12-26T13:08:01.097324"
+  },
+  "pre_035_frame_2531": {
+    "source_video": "pre_035",
+    "frame_number": 2531,
+    "roi_coords": [
+      42,
+      659,
+      1033,
+      1059
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          715,
+          948
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          698,
+          275
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          279,
+          301
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-26T13:08:32.500862"
+  },
+  "pre_034_frame_95": {
+    "source_video": "pre_034",
+    "frame_number": 95,
+    "roi_coords": [
+      20,
+      1,
+      642,
+      658
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          340,
+          328
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          171,
+          159
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:09:18.376125"
+  },
+  "pre_034_frame_373": {
+    "source_video": "pre_034",
+    "frame_number": 373,
+    "roi_coords": [
+      1,
+      94,
+      582,
+      596
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          80,
+          365
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:09:39.944310"
+  },
+  "pre_034_frame_479": {
+    "source_video": "pre_034",
+    "frame_number": 479,
+    "roi_coords": [
+      119,
+      60,
+      583,
+      602
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          377,
+          309
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:10:18.782609"
+  },
+  "pre_034_frame_545": {
+    "source_video": "pre_034",
+    "frame_number": 545,
+    "roi_coords": [
+      197,
+      12,
+      520,
+      534
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          180,
+          331
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          417,
+          320
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:10:54.683037"
+  },
+  "pre_034_frame_1409": {
+    "source_video": "pre_034",
+    "frame_number": 1409,
+    "roi_coords": [
+      62,
+      115,
+      612,
+      638
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          256,
+          172
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          301,
+          274
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          211,
+          426
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-26T13:12:10.659996"
+  },
+  "pre_033_frame_1140": {
+    "source_video": "pre_033",
+    "frame_number": 1140,
+    "roi_coords": [
+      1,
+      330,
+      810,
+      816
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          324,
+          646
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          582,
+          443
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          75,
+          465
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-26T13:13:32.164308"
+  },
+  "pre_033_frame_2337": {
+    "source_video": "pre_033",
+    "frame_number": 2337,
+    "roi_coords": [
+      199,
+      356,
+      769,
+      802
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          283,
+          464
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:14:40.547051"
+  },
+  "pre_032_frame_31": {
+    "source_video": "pre_032",
+    "frame_number": 31,
+    "roi_coords": [
+      1,
+      164,
+      706,
+      695
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          275,
+          461
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:15:25.294429"
+  },
+  "pre_032_frame_210": {
+    "source_video": "pre_032",
+    "frame_number": 210,
+    "roi_coords": [
+      3,
+      99,
+      682,
+      681
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          199,
+          233
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          318,
+          622
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:16:19.276123"
+  },
+  "pre_032_frame_352": {
+    "source_video": "pre_032",
+    "frame_number": 352,
+    "roi_coords": [
+      1,
+      122,
+      698,
+      735
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          255,
+          436
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:17:49.218041"
+  },
+  "pre_032_frame_411": {
+    "source_video": "pre_032",
+    "frame_number": 411,
+    "roi_coords": [
+      1,
+      136,
+      686,
+      701
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          351,
+          261
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:18:05.382333"
+  },
+  "pre_032_frame_556": {
+    "source_video": "pre_032",
+    "frame_number": 556,
+    "roi_coords": [
+      17,
+      54,
+      682,
+      724
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          417,
+          323
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:18:17.566997"
+  },
+  "pre_032_frame_801": {
+    "source_video": "pre_032",
+    "frame_number": 801,
+    "roi_coords": [
+      9,
+      110,
+      678,
+      693
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          433,
+          276
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:18:45.850267"
+  },
+  "pre_031_frame_62": {
+    "source_video": "pre_031",
+    "frame_number": 62,
+    "roi_coords": [
+      28,
+      228,
+      525,
+      559
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          273,
+          197
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:19:12.650205"
+  },
+  "pre_031_frame_140": {
+    "source_video": "pre_031",
+    "frame_number": 140,
+    "roi_coords": [
+      1,
+      218,
+      438,
+      450
+    ],
+    "comment": "",
+    "points": [],
+    "remove_count": 0,
+    "keep_count": 0,
+    "created_at": "2025-12-26T13:19:36.610517"
+  },
+  "pre_031_frame_711": {
+    "source_video": "pre_031",
+    "frame_number": 711,
+    "roi_coords": [
+      121,
+      73,
+      596,
+      635
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          428,
+          366
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:20:01.097106"
+  },
+  "pre_028_frame_2137": {
+    "source_video": "pre_028",
+    "frame_number": 2137,
+    "roi_coords": [
+      8,
+      1069,
+      855,
+      847
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          237,
+          305
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          296,
+          495
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:24:32.023114"
+  },
+  "pre_027_frame_31": {
+    "source_video": "pre_027",
+    "frame_number": 31,
+    "roi_coords": [
+      48,
+      181,
+      625,
+      628
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          273,
+          368
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:24:48.365632"
+  },
+  "pre_027_frame_189": {
+    "source_video": "pre_027",
+    "frame_number": 189,
+    "roi_coords": [
+      1,
+      381,
+      613,
+      628
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          233,
+          292
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:25:00.704021"
+  },
+  "pre_027_frame_843": {
+    "source_video": "pre_027",
+    "frame_number": 843,
+    "roi_coords": [
+      1,
+      198,
+      664,
+      715
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          571,
+          580
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          258,
+          453
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:26:19.855919"
+  },
+  "pre_025_frame_36": {
+    "source_video": "pre_025",
+    "frame_number": 36,
+    "roi_coords": [
+      218,
+      15,
+      682,
+      702
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          628,
+          385
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:27:18.871496"
+  },
+  "pre_025_frame_0": {
+    "source_video": "pre_025",
+    "frame_number": 0,
+    "roi_coords": [
+      327,
+      22,
+      693,
+      695
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          358,
+          238
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          349,
+          336
+        ]
+      },
+      {
+        "type": "remove",
+        "label": "疏除",
+        "pos": [
+          117,
+          367
+        ]
+      }
+    ],
+    "remove_count": 3,
+    "keep_count": 0,
+    "created_at": "2025-12-26T13:27:41.028069"
+  },
+  "pre_025_frame_208": {
+    "source_video": "pre_025",
+    "frame_number": 208,
+    "roi_coords": [
+      252,
+      4,
+      677,
+      713
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          344,
+          632
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          320,
+          124
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:28:25.810722"
+  },
+  "pre_025_frame_508": {
+    "source_video": "pre_025",
+    "frame_number": 508,
+    "roi_coords": [
+      707,
+      1,
+      501,
+      483
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          259,
+          169
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:28:44.103219"
+  },
+  "pre_024_frame_3274": {
+    "source_video": "pre_024",
+    "frame_number": 3274,
+    "roi_coords": [
+      23,
+      201,
+      656,
+      670
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          360,
+          396
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:30:28.339424"
+  },
+  "pre_024_frame_3529": {
+    "source_video": "pre_024",
+    "frame_number": 3529,
+    "roi_coords": [
+      50,
+      191,
+      667,
+      706
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          409,
+          347
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          423,
+          488
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:30:53.581137"
+  },
+  "pre_024_frame_3601": {
+    "source_video": "pre_024",
+    "frame_number": 3601,
+    "roi_coords": [
+      138,
+      335,
+      579,
+      579
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          160,
+          164
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          504,
+          522
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T13:31:15.574033"
+  },
+  "pre_024_frame_4315": {
+    "source_video": "pre_024",
+    "frame_number": 4315,
+    "roi_coords": [
+      1,
+      169,
+      681,
+      725
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          328,
+          654
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          568,
+          124
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          38,
+          518
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 3,
+    "created_at": "2025-12-26T13:31:43.780999"
+  },
+  "pre_023_frame_1105": {
+    "source_video": "pre_023",
+    "frame_number": 1105,
+    "roi_coords": [
+      19,
+      194,
+      636,
+      641
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          485,
+          434
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T13:32:42.713830"
+  },
+  "pre_023_frame_1468": {
+    "source_video": "pre_023",
+    "frame_number": 1468,
+    "roi_coords": [
+      87,
+      341,
+      630,
+      635
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          347,
+          406
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T14:48:00.030873"
+  },
+  "pre_022_frame_1559": {
+    "source_video": "pre_022",
+    "frame_number": 1559,
+    "roi_coords": [
+      334,
+      545,
+      741,
+      771
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          296,
+          317
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T14:49:35.265736"
+  },
+  "pre_022_frame_2264": {
+    "source_video": "pre_022",
+    "frame_number": 2264,
+    "roi_coords": [
+      93,
+      515,
+      982,
+      966
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          486,
+          250
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          258,
+          330
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T14:54:15.509707"
+  },
+  "pre_022_frame_2502": {
+    "source_video": "pre_022",
+    "frame_number": 2502,
+    "roi_coords": [
+      465,
+      511,
+      610,
+      602
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          245,
+          212
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          444,
+          207
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T14:54:44.480410"
+  },
+  "pre_021_frame_303": {
+    "source_video": "pre_021",
+    "frame_number": 303,
+    "roi_coords": [
+      1,
+      64,
+      1056,
+      1060
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          591,
+          388
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T15:09:06.833336"
+  },
+  "pre_019_frame_2679": {
+    "source_video": "pre_019",
+    "frame_number": 2679,
+    "roi_coords": [
+      308,
+      109,
+      767,
+      763
+    ],
+    "comment": "",
+    "points": [],
+    "remove_count": 0,
+    "keep_count": 0,
+    "created_at": "2025-12-26T15:10:54.735621"
+  },
+  "pre_019_frame_2935": {
+    "source_video": "pre_019",
+    "frame_number": 2935,
+    "roi_coords": [
+      135,
+      405,
+      940,
+      953
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          486,
+          576
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T15:11:13.214794"
+  },
+  "pre_018_frame_25": {
+    "source_video": "pre_018",
+    "frame_number": 25,
+    "roi_coords": [
+      1,
+      266,
+      588,
+      593
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          464,
+          77
+        ]
+      },
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          165,
+          264
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 2,
+    "created_at": "2025-12-26T15:12:28.433099"
+  },
+  "pre_018_frame_355": {
+    "source_video": "pre_018",
+    "frame_number": 355,
+    "roi_coords": [
+      1,
+      322,
+      653,
+      642
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          334,
+          261
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T15:12:53.741764"
+  },
+  "pre_018_frame_547": {
+    "source_video": "pre_018",
+    "frame_number": 547,
+    "roi_coords": [
+      1,
+      285,
+      636,
+      628
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          416,
+          180
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T15:13:05.930284"
+  },
+  "pre_018_frame_1117": {
+    "source_video": "pre_018",
+    "frame_number": 1117,
+    "roi_coords": [
+      33,
+      442,
+      684,
+      672
+    ],
+    "comment": "",
+    "points": [
+      {
+        "type": "keep",
+        "label": "保留",
+        "pos": [
+          415,
+          336
+        ]
+      }
+    ],
+    "remove_count": 0,
+    "keep_count": 1,
+    "created_at": "2025-12-26T15:13:27.902933"
+  }
+}
