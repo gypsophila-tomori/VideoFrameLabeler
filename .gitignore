@@ -4,11 +4,7 @@
 *.avi
 
 # 图像文件
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-*.psd
+/saved_images
+/video
 # vscode工作区设置
 *.code-workspace
